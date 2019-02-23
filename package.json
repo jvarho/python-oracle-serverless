@@ -8,6 +8,7 @@
   },
   "author": "Jan Varho",
   "license": "ISC",
+  "repository": "https://github.com/jvarho/python-oracle-serverless",
   "devDependencies": {
     "serverless": "^1.38.0",
     "serverless-python-requirements": "^4.3.0"
