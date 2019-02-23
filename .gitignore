@@ -19,5 +19,8 @@ var/
 # Serverless directories
 .serverless
 
+# Node and npm
+node_modules
+
 # Lib
 lib/
