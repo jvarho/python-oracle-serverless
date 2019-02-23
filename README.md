@@ -17,6 +17,7 @@ Steps to install and deploy:
         https://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
 
 4. Extract the files intoto the lib/ folder here.
+    (Do not include the instantclient_18_3 folder, only its contents.)
 
 5. Add libaio.so.1 under lib/ – copy from /lib/x86_64-linux-gnu/libaio.so.1 on
     Ubuntu or wherever you can acquire it.
