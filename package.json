@@ -1,6 +1,6 @@
 {
   "name": "python-oracle-serverless",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example for using cx_Oracle with serverless",
   "scripts": {
     "sls-logs": "sls logs -f hello",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": "https://github.com/jvarho/python-oracle-serverless",
   "devDependencies": {
-    "serverless": "^1.44.1",
+    "serverless": "^1.47.0",
     "serverless-python-requirements": "^4.3.0"
   }
 }
