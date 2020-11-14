@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": "https://github.com/jvarho/python-oracle-serverless",
   "devDependencies": {
-    "serverless": "^1.47.0",
+    "serverless": "^1.83.2",
     "serverless-python-requirements": "^4.3.0"
   }
 }
